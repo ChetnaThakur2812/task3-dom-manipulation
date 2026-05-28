@@ -1,0 +1,28 @@
+body{
+    font-family: cursive;
+    padding: 20px;
+    background-color: black;
+}
+
+h1{
+    color: olive;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: burlywood;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: lightslategray;
+}
+
+.user-card{
+    background-color: beige;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
